@@ -194,7 +194,7 @@ XZ Utils
     you probably need to report a bug to your distribution's bug tracking
     system.
 
-
+200021
 4. Translations
 ---------------
 
@@ -244,7 +244,14 @@ XZ Utils
     before running translations.bash. The value should match the PO file
     name without the .po suffix. Example:
 
-        export LANGUAGE=fi
+
+
+
+
+
+    222222222
+
+    export LANGUAGE=fi
 
 
 5. Other implementations of the .xz format
